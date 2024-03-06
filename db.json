@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "React desde cero"
+        },
+        {
+          "nombre": "JavaScript desde cero"
+        }
+      ],
+      "id": "56d5"
+    },
+    {
+      "id": "351d",
+      "nombre": "Horacio",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Matematica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "3bb6"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "9f81"
+    },
+    {
+      "id": "7136",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    },
+    {
+      "id": "f95f",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NODE desde cero",
+      "duracion": 7,
+      "dificultad": "internemdia",
+      "id": "52a2"
+    },
+    {
+      "nombre": "REACTJS desde cero",
+      "duracion": 8,
+      "dificultad": "internemdia",
+      "id": "0865"
+    },
+    {
+      "nombre": "ANGULAR 17 desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "8783"
+    }
+  ]
+}
